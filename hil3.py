@@ -1,0 +1,11 @@
+studentname= "hak meng"
+#print(len(studentname))
+print(studentname [0])
+print(studentname[1])
+print(studentname[2])
+print(studentname[3])
+print(studentname[4])
+print(studentname[5])
+print(studentname[6])
+print(studentname[7])
+print(studentname[8])
