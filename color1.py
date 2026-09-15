@@ -9,4 +9,3 @@ elif color == "green":
 else:
     result = "high risk , please check left and right"
 print("traffic signal says:",result)
-yellow
